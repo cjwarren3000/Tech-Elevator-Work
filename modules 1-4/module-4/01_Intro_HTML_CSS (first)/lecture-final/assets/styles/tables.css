@@ -1,0 +1,22 @@
+/* Table Styling */
+table {
+    border: 2px solid #8CC63F;
+    background-color: #999999;
+}
+
+table thead {
+    background-color: #3B3E42;
+    color: white;
+}
+
+thead th {
+    color: white;
+}
+
+tbody {
+    color: white;
+}
+
+th {
+    color: #FFCB48;
+}

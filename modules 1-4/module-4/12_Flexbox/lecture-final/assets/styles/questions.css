@@ -1,0 +1,163 @@
+/* Tech Elevator Colors
+
+Dark Gray:  #3B3E42
+Blue:       #00ADEE
+Green:      #8CC63F
+Light Gray: #999999
+White:      #FFFFFF
+Orange:     #F6931D
+Purple:     #363E8B
+Gold:       #FFCB48
+Red:        #c63f3f
+*/
+
+/* Styling for the list container */
+
+html body {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+        "navBar"
+        "mainBody"
+        "footer";
+}
+
+main {
+    display: grid;
+    grid-template-areas:
+        "aFriendlyNote"
+        "yet-another-squirrel"
+        "questionsList"
+        "notEnough";
+}
+
+#opening {
+    grid-area: aFriendlyNote;
+}
+
+aside {
+    grid-area: yet-another-squirrel;
+}
+
+#questionList {
+    grid-area: questionsList;
+}
+
+#closing {
+    grid-area: notEnough;
+}
+
+.questionContainer {
+    display: flex;
+}
+
+/* List item styling */
+
+article {
+    border: #3B3E42 solid 1px;
+    border-radius: 0.5rem;
+    background-color: #FFCB48;
+    overflow: none;
+    color: #ffffff;
+    text-shadow: 2px 2px #999999;
+    padding: 0;
+    margin: 0.5rem;
+    box-shadow: 0.25rem 0.25rem #999999;
+}
+
+article:hover {
+    background-color: #F6931D;
+}
+
+/* Styling areas of the list items */
+
+.answer {
+    padding: 0.5rem;
+    background-color: #3B3E42;
+    text-shadow: none;
+    height: 8rem;
+    overflow: auto;
+    font-size: small;
+}
+
+.question {
+    height: 2rem;
+    padding: 0.5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    min-height: 37px;
+}
+
+/* Question Card Footer Styling */
+.questionFooter {
+    display: flex;
+    padding: 0.5rem;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.questionFooter>div {
+    display: inline-block;
+}
+
+.questionFooter a {
+    color: #ffffff;
+}
+
+/* Blur the answer text by default */
+
+article.blur {
+    background-color: #00ADEE;
+}
+
+article.blur:hover {
+    background-color: #F6931D;
+}
+
+article.blur:hover .answer {
+    color: #ffffff;
+    text-shadow: none;
+}
+
+article.blur .answer {
+    color: transparent;
+    text-shadow: 0 0 5px #ffffff;
+}
+
+/* Correct / Incorrect Styling */
+article.correct {
+    background-color: #8CC63F;
+}
+
+article.incorrect {
+    background-color: #c63f3f;
+}
+
+main aside {
+    margin-top: 1rem;
+}
+
+/* Responsive Layout Rules */
+@media screen and (min-width: 768px) {
+    main {
+        grid-template-areas:
+            "aFriendlyNote yet-another-squirrel"
+            "questionsList questionsList"
+            "notEnough notEnough";
+    }
+
+    .questionContainer {
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+    }
+
+    .questionContainer article {
+        flex-basis: 200px;
+        flex-grow: 1;
+    }
+
+    .questionContainer article.pokeMe {
+        align-self: center;
+        background-color: #c63f3f;
+    }
+}

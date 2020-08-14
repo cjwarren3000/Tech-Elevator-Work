@@ -1,0 +1,83 @@
+/* Tech Elevator Colors
+
+Dark Gray:  #3B3E42
+Blue:       #00ADEE
+Green:      #8CC63F
+Light Gray: #999999
+White:      #FFFFFF
+Orange:     #F6931D
+Purple:     #363E8B
+Gold:       #FFCB48
+Red:        #c63f3f
+*/
+
+/* 
+h1 {
+    color: orange;
+}
+
+a#opening {
+
+}
+
+h1.active {
+    color: brown;
+}
+
+.active {
+    color: red;
+    text-decoration: line-through;
+}
+
+.foobar {
+    color: purple;
+}
+*/
+
+/* Document Styling */
+
+body {
+    color: #363E8B;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Proxima Nova', Tahoma, Arial, sans-serif;
+}
+
+/* Sidebar Styling */
+
+aside img {
+    max-width: 250px;
+}
+
+/* General Header / Footer Styling */
+
+header, footer {
+    background-color: #3B3E42;
+}
+
+header {
+    border-bottom: 5px solid #FFCB48;
+}
+
+footer {
+    border-top: 5px solid #FFCB48;
+}
+
+/* Link Styling */
+
+.active {
+    color: #00ADEE;
+    font-size: 110%;
+}
+
+a {
+    color: #8CC63F;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 90%;
+}
+
+/*
+p {
+    margin-top: 50px;
+}
+*/

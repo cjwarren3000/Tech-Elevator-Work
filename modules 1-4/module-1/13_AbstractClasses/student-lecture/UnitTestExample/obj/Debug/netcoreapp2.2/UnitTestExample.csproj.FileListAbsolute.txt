@@ -1,0 +1,13 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-lecture\UnitTestExample\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-lecture\UnitTestExample\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-lecture\UnitTestExample\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-lecture\UnitTestExample\bin\Debug\netcoreapp2.2\UnitTestExample.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-lecture\UnitTestExample\bin\Debug\netcoreapp2.2\UnitTestExample.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-lecture\UnitTestExample\bin\Debug\netcoreapp2.2\UnitTestExample.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-lecture\UnitTestExample\bin\Debug\netcoreapp2.2\UnitTestExample.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-lecture\UnitTestExample\bin\Debug\netcoreapp2.2\UnitTestExample.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-lecture\UnitTestExample\obj\Debug\netcoreapp2.2\UnitTestExample.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-lecture\UnitTestExample\obj\Debug\netcoreapp2.2\UnitTestExample.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-lecture\UnitTestExample\obj\Debug\netcoreapp2.2\UnitTestExample.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-lecture\UnitTestExample\obj\Debug\netcoreapp2.2\UnitTestExample.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-lecture\UnitTestExample\obj\Debug\netcoreapp2.2\UnitTestExample.pdb

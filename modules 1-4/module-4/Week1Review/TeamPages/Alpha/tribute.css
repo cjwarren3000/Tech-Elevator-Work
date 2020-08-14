@@ -1,0 +1,79 @@
+body {
+    background-image: linear-gradient(#001a4d, #3973ac);
+    color:white;
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    align-content:space-between;
+}
+#biography h1 span {
+    text-shadow:0 0 10px white;
+    animation: 2.5s infinite normal blink;
+}
+form {
+    position:fixed;
+    top: 10px;
+    left:10px;
+    background-color: #330066;
+    border-radius:20px;
+    padding:5px;
+    border:3px solid black;
+    display:flex;
+    flex-direction: column;
+    align-items: space-between;
+}
+header {
+    font-size: xx-large;
+    font-weight: bolder;
+    text-shadow:0 0 10px white;
+}
+#rippedJohn {
+    max-width: 300px;
+    border: 5px solid black;
+    border-radius: 20%;
+    cursor: crosshair;
+}
+#johnCSS {
+    max-width: 300px;
+    border: 5px solid black;
+    border-radius: 20%;
+    cursor: crosshair;
+    padding-left:20px;
+}
+a {
+    color: white;
+}
+a:hover {
+    color: red;
+    cursor: pointer;
+}
+li {
+    margin-bottom:10px;
+}
+footer div {
+    display:flex;
+    flex-direction: column;
+}
+@media screen and (max-width: 768px)
+{
+    form {
+        position:static;
+       
+    }
+}
+@keyframes blink {
+    0%, 100% {
+        background: red;
+        color: white;
+        box-shadow:0 0 10px white;
+        border-radius: 10px;
+    }
+    50% {
+        background: cyan;
+        color: black;
+        border-radius: 10px;
+        box-shadow:0 0 10px white;
+    }
+}

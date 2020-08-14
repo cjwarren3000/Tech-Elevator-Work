@@ -1,0 +1,11 @@
+C:\Users\Student\team02-c-sharp-week01-pair-exercises\M1-05\command-line-input-exercises-pairs\bin\Debug\netcoreapp2.1\MakeChange.deps.json
+C:\Users\Student\team02-c-sharp-week01-pair-exercises\M1-05\command-line-input-exercises-pairs\bin\Debug\netcoreapp2.1\MakeChange.runtimeconfig.json
+C:\Users\Student\team02-c-sharp-week01-pair-exercises\M1-05\command-line-input-exercises-pairs\bin\Debug\netcoreapp2.1\MakeChange.runtimeconfig.dev.json
+C:\Users\Student\team02-c-sharp-week01-pair-exercises\M1-05\command-line-input-exercises-pairs\bin\Debug\netcoreapp2.1\MakeChange.dll
+C:\Users\Student\team02-c-sharp-week01-pair-exercises\M1-05\command-line-input-exercises-pairs\bin\Debug\netcoreapp2.1\MakeChange.pdb
+C:\Users\Student\team02-c-sharp-week01-pair-exercises\M1-05\command-line-input-exercises-pairs\obj\Debug\netcoreapp2.1\MakeChange.csprojAssemblyReference.cache
+C:\Users\Student\team02-c-sharp-week01-pair-exercises\M1-05\command-line-input-exercises-pairs\obj\Debug\netcoreapp2.1\MakeChange.csproj.CoreCompileInputs.cache
+C:\Users\Student\team02-c-sharp-week01-pair-exercises\M1-05\command-line-input-exercises-pairs\obj\Debug\netcoreapp2.1\MakeChange.AssemblyInfoInputs.cache
+C:\Users\Student\team02-c-sharp-week01-pair-exercises\M1-05\command-line-input-exercises-pairs\obj\Debug\netcoreapp2.1\MakeChange.AssemblyInfo.cs
+C:\Users\Student\team02-c-sharp-week01-pair-exercises\M1-05\command-line-input-exercises-pairs\obj\Debug\netcoreapp2.1\MakeChange.dll
+C:\Users\Student\team02-c-sharp-week01-pair-exercises\M1-05\command-line-input-exercises-pairs\obj\Debug\netcoreapp2.1\MakeChange.pdb

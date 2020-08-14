@@ -1,0 +1,17 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\bin\Debug\netcoreapp2.1\Exercises.Tests.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\bin\Debug\netcoreapp2.1\Exercises.Tests.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\bin\Debug\netcoreapp2.1\Exercises.Tests.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\bin\Debug\netcoreapp2.1\Exercises.Tests.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\bin\Debug\netcoreapp2.1\Exercises.Tests.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\bin\Debug\netcoreapp2.1\BankTellerExercise.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\bin\Debug\netcoreapp2.1\BankTellerExercise.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\obj\Debug\netcoreapp2.1\Exercises.Tests.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\obj\Debug\netcoreapp2.1\Exercises.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\obj\Debug\netcoreapp2.1\Exercises.Tests.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\obj\Debug\netcoreapp2.1\Exercises.Tests.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\obj\Debug\netcoreapp2.1\Exercises.Tests.csproj.CopyComplete
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\obj\Debug\netcoreapp2.1\Exercises.Tests.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\11_Inheritance\student-exercise\dotnet\Exercises.Tests\obj\Debug\netcoreapp2.1\Exercises.Tests.pdb

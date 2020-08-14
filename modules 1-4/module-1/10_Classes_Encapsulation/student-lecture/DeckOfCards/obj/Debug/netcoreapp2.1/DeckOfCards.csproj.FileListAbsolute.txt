@@ -1,0 +1,11 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\10_Classes_Encapsulation\student-lecture\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\10_Classes_Encapsulation\student-lecture\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\10_Classes_Encapsulation\student-lecture\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\10_Classes_Encapsulation\student-lecture\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\10_Classes_Encapsulation\student-lecture\DeckOfCards\bin\Debug\netcoreapp2.1\DeckOfCards.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\10_Classes_Encapsulation\student-lecture\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\10_Classes_Encapsulation\student-lecture\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\10_Classes_Encapsulation\student-lecture\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\10_Classes_Encapsulation\student-lecture\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\10_Classes_Encapsulation\student-lecture\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\10_Classes_Encapsulation\student-lecture\DeckOfCards\obj\Debug\netcoreapp2.1\DeckOfCards.pdb

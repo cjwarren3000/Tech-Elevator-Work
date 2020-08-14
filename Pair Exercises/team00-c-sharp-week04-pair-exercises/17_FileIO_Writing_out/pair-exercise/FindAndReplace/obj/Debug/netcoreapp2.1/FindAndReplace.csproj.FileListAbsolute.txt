@@ -1,0 +1,11 @@
+C:\Users\Student\team00-c-sharp-week04-pair-exercises\17_FileIO_Writing_out\pair-exercise\FindAndReplace\bin\Debug\netcoreapp2.1\FindAndReplace.deps.json
+C:\Users\Student\team00-c-sharp-week04-pair-exercises\17_FileIO_Writing_out\pair-exercise\FindAndReplace\bin\Debug\netcoreapp2.1\FindAndReplace.runtimeconfig.json
+C:\Users\Student\team00-c-sharp-week04-pair-exercises\17_FileIO_Writing_out\pair-exercise\FindAndReplace\bin\Debug\netcoreapp2.1\FindAndReplace.runtimeconfig.dev.json
+C:\Users\Student\team00-c-sharp-week04-pair-exercises\17_FileIO_Writing_out\pair-exercise\FindAndReplace\bin\Debug\netcoreapp2.1\FindAndReplace.dll
+C:\Users\Student\team00-c-sharp-week04-pair-exercises\17_FileIO_Writing_out\pair-exercise\FindAndReplace\bin\Debug\netcoreapp2.1\FindAndReplace.pdb
+C:\Users\Student\team00-c-sharp-week04-pair-exercises\17_FileIO_Writing_out\pair-exercise\FindAndReplace\obj\Debug\netcoreapp2.1\FindAndReplace.csprojAssemblyReference.cache
+C:\Users\Student\team00-c-sharp-week04-pair-exercises\17_FileIO_Writing_out\pair-exercise\FindAndReplace\obj\Debug\netcoreapp2.1\FindAndReplace.csproj.CoreCompileInputs.cache
+C:\Users\Student\team00-c-sharp-week04-pair-exercises\17_FileIO_Writing_out\pair-exercise\FindAndReplace\obj\Debug\netcoreapp2.1\FindAndReplace.AssemblyInfoInputs.cache
+C:\Users\Student\team00-c-sharp-week04-pair-exercises\17_FileIO_Writing_out\pair-exercise\FindAndReplace\obj\Debug\netcoreapp2.1\FindAndReplace.AssemblyInfo.cs
+C:\Users\Student\team00-c-sharp-week04-pair-exercises\17_FileIO_Writing_out\pair-exercise\FindAndReplace\obj\Debug\netcoreapp2.1\FindAndReplace.dll
+C:\Users\Student\team00-c-sharp-week04-pair-exercises\17_FileIO_Writing_out\pair-exercise\FindAndReplace\obj\Debug\netcoreapp2.1\FindAndReplace.pdb

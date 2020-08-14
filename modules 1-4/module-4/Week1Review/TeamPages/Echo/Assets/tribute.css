@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas: "header"
+                      "pic"
+                      "... pic"
+                      "bio bio"
+                      "quotes input"
+                      "disclaimer disclaimer";
+    margin: 50px;
+}
+header{
+    grid-area: header;
+}
+main{
+    grid-area: main;
+    display: flex;
+    flex-direction: column;
+}
+#accomplishments{
+    grid-area: accomplishments;
+}
+#quotes{
+    font-style: italic;
+    grid-area: quotes;
+}
+#bio{
+        grid-area: bio;
+}
+#pic{
+    grid-area: pic;
+}
+aside{
+        grid-area: input;
+}
+footer{
+    grid-area: disclaimer;
+}
+@media screen and (min-width: 450px){
+   body{ 
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas: "header pic"
+                      "accomplishments pic"
+                      "... pic"
+                      "bio bio"
+                      "quotes input"
+                      "disclaimer disclaimer"
+   }
+}
+@media screen and (min-width: 1024px){
+    body{
+        grid-template-columns: 1fr 1fr;
+      grid-template-areas: "header pic"
+                        "main pic"
+                        "main input"
+                        "... input"
+                        "disclaimer disclaimer"
+    }
+}

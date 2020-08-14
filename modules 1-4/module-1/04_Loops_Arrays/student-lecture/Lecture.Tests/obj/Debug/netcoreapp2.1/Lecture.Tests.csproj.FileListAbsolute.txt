@@ -1,0 +1,17 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\bin\Debug\netcoreapp2.1\Lecture.Tests.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\bin\Debug\netcoreapp2.1\Lecture.Tests.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\bin\Debug\netcoreapp2.1\Lecture.Tests.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\bin\Debug\netcoreapp2.1\Lecture.Tests.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\bin\Debug\netcoreapp2.1\Lecture.Tests.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\bin\Debug\netcoreapp2.1\Lecture.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\bin\Debug\netcoreapp2.1\Lecture.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\obj\Debug\netcoreapp2.1\Lecture.Tests.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\obj\Debug\netcoreapp2.1\Lecture.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\obj\Debug\netcoreapp2.1\Lecture.Tests.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\obj\Debug\netcoreapp2.1\Lecture.Tests.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\obj\Debug\netcoreapp2.1\Lecture.Tests.csproj.CopyComplete
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\obj\Debug\netcoreapp2.1\Lecture.Tests.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\04_Loops_Arrays\student-lecture\Lecture.Tests\obj\Debug\netcoreapp2.1\Lecture.Tests.pdb

@@ -1,0 +1,140 @@
+body{
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 95%;
+    background-color: lightgreen;
+}
+
+header{
+    font-family: Helvetica;
+    position: fixed;
+    left: 0;
+    top: 0;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-areas: "tittle johnpic"
+                         "link link";
+    background-color: black;
+    color: blanchedalmond;
+    border: blueviolet 10px solid;
+}
+
+#title{
+    grid-area: tittle;
+}
+
+#johnpic{
+    grid-area: johnpic;
+    justify-self: end;
+    align-self: center;
+    background-color: black;
+}
+
+header a{
+    grid-area: link;
+    text-decoration: none;
+    color: lightblue;
+}
+
+header a:hover{
+    background-color: royalblue;
+}
+
+img{
+    width: 50%;
+}
+
+main img{
+    width: 100%
+}
+
+*{
+    font-family: Helvetica;
+}
+
+form{
+    font-family: Helvetica;
+    display: flex;
+    flex-direction: column;
+    border: tomato 10px dotted;
+}
+
+main{
+    font-family: Helvetica;
+    margin-top: 120px;
+    border: lightpink 10px solid;
+}
+
+cite{
+    font-size: xx-large;
+    color: brown;
+}
+
+input:hover{
+    background-color: coral;
+}
+
+input{
+    border-radius: 25%;
+}
+
+@media screen and (min-width:720px){
+    header{
+        font-family: Helvetica;
+        position: absolute;
+        right: 0;
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        grid-template-areas: "tittle johnpic"
+                         "link link";
+        background-color: black;
+        color: blanchedalmond;
+        border: blueviolet 10px solid;
+        top: 0;
+        grid-area: header;
+        
+    }
+    #johnpic{
+        justify-self: center;
+    }
+    body{
+        margin-top:320px;
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        grid-template-areas: "header header"
+                             "main aside"
+                             "footer footer";
+                             
+        width: 99%;
+        background-color: lightgreen;
+    }
+    aside{
+        grid-area: aside;
+        justify-self:center;
+    }
+
+    main{
+        bottom: 300px;
+        grid-area: main;
+        margin: 0;
+    }
+
+    #title{
+        font-size: 100px;
+    }
+
+    header a {
+        font-size: xx-large;
+    }
+
+    footer{
+        grid-area: footer;
+    }
+
+    @media screen and (min-width: 2400px){
+        body{
+            margin-top:500px;
+            
+        }
+    }
+}

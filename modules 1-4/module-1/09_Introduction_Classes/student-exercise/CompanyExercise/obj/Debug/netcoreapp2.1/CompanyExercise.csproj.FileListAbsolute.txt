@@ -1,0 +1,11 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\CompanyExercise\bin\Debug\netcoreapp2.1\CompanyExercise.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\CompanyExercise\bin\Debug\netcoreapp2.1\CompanyExercise.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\CompanyExercise\bin\Debug\netcoreapp2.1\CompanyExercise.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\CompanyExercise\bin\Debug\netcoreapp2.1\CompanyExercise.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\CompanyExercise\bin\Debug\netcoreapp2.1\CompanyExercise.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\CompanyExercise\obj\Debug\netcoreapp2.1\CompanyExercise.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\CompanyExercise\obj\Debug\netcoreapp2.1\CompanyExercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\CompanyExercise\obj\Debug\netcoreapp2.1\CompanyExercise.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\CompanyExercise\obj\Debug\netcoreapp2.1\CompanyExercise.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\CompanyExercise\obj\Debug\netcoreapp2.1\CompanyExercise.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\CompanyExercise\obj\Debug\netcoreapp2.1\CompanyExercise.pdb

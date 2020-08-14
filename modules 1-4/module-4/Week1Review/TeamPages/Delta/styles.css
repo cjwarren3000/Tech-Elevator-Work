@@ -1,0 +1,100 @@
+form {
+    background-color: hotpink;
+    border: 10px solid indigo;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+main{
+   
+}
+
+* {
+    font-family: "comic sans ms", cursive, sans-serif;
+    color: #614051;
+    background-color: lavender;
+}
+
+img{
+    width: 50%;
+}
+
+#title{
+    grid-area: title;
+}
+
+#link{
+    grid-area: link;
+}
+
+#about{
+    grid-area: about;
+}
+
+#professionalJohn{
+    grid-area: professionalJohn;
+}
+
+#aboutParagraph1{
+    grid-area: aboutParagraph1;
+}
+
+#aboutParagraph2{
+    grid-area: aboutParagraph2;
+}
+
+#experience{
+    grid-area: experience;
+}
+
+#funFacts{
+    grid-area: funFacts;
+}
+
+#funFactsList{
+    grid-area: funFactsList;
+}
+
+#rippedJohn{
+    grid-area: rippedJohn;
+}
+
+#fanClubTitle{
+    grid-area: fanClubTitle;
+}
+
+#fanClubForm{
+    grid-area: fanClubForm;
+}
+
+@media screen and (max-width: 450px){
+    header {
+        display: grid;
+        grid-template-areas: "title"
+                             "link";
+        align-items: center;
+    }
+
+    main{
+        display: grid;
+        grid-template-areas: "about"
+                             "professionalJohn"
+                             "aboutParagraph1"
+                             "aboutParagraph2"
+                             "experience"
+                             "rippedJohn"
+                             "funFacts"
+                             "funFactsList";
+        align-items: center;
+    }
+
+    aside{
+        display: grid;
+        grid-template-areas: "fanClubTitle"
+                             "fanClubForm";
+        align-items: center;
+    }
+
+
+} 

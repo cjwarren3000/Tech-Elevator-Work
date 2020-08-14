@@ -1,0 +1,207 @@
+/* Tech Elevator Colors
+
+Dark Gray:  #3B3E42
+Blue:       #00ADEE
+Green:      #8CC63F
+Light Gray: #999999
+White:      #FFFFFF
+Orange:     #F6931D
+Purple:     #363E8B
+Gold:       #FFCB48
+Red:        #c63f3f
+*/
+
+/* Styling for the list container */
+
+.questionContainer {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: flex-start;
+}
+
+/* List item styling */
+
+article {
+    border: #3B3E42 solid 1px;
+    border-radius: 0.5rem;
+    background-color: #FFCB48;
+    overflow: none;
+    color: #ffffff;
+    text-shadow: 2px 2px #999999;
+    padding: 0;
+    margin: 0.5rem;
+    box-shadow: 0.25rem 0.25rem #999999;
+}
+
+article:hover {
+    background-color: #F6931D;
+}
+
+/* Styling areas of the list items */
+
+.answer {
+    padding: 0.5rem;
+    background-color: #3B3E42;
+    text-shadow: none;
+    height: 8rem;
+    overflow: auto;
+    font-size: small;
+}
+
+.question {
+    height: 2rem;
+    padding: 0.5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    min-height: 37px;
+}
+
+.questionFooter {
+    display: flex;
+    flex-direction: row;
+    color: #1e2227;
+    font-size: small;
+    align-items: baseline;
+    padding: 0.25rem;
+}
+
+.questionFooter a {
+    color: #ffffff;
+}
+
+/* Command Area (lower left) */
+
+.questionCommands {
+    display: flex;
+    flex-direction: row;
+}
+
+.questionCommands a {
+    margin-right: 0.5rem;
+}
+
+/* Tag Styling (lower right) */
+
+.tagsContainer {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: row-reverse;
+    align-items: baseline;
+}
+
+.tag {
+    background-color: #3B3E42;
+    color: #ffffff;
+    padding: 0.25rem;
+    border: 1px solid #3B3E42;
+    border-radius: 0.5rem;
+    margin-left: 0.25rem;
+}
+
+/* Blur the answer text by default */
+
+article.blur {
+    background-color: #00ADEE;
+}
+
+article.blur:hover {
+    background-color: #F6931D;
+}
+
+article.blur:hover .answer {
+    color: #ffffff;
+    text-shadow: none;
+}
+
+article.blur .answer {
+    color: transparent;
+    text-shadow: 0 0 5px #ffffff;
+}
+
+article.blur .markCorrect {
+    /* Do not show the mark correct button if we haven't displayed the answer */
+    display: none;
+}
+
+article.blur .markIncorrect {
+    /* Do not show the mark incorrect button if we haven't displayed the answer */
+    display: none;
+}
+
+/* Show Answer Command */
+
+.showAnswer {
+    display: none;
+    /* Do not show the show answer button by default */
+}
+
+article.blur .showAnswer {
+    display: inline;
+    /* If the question is blurred, show the "show answer" link */
+}
+
+/* Correct / Incorrect Styling */
+
+article.correct .questionCommands {
+    /* If the question is answered, commands are now irrelevant */
+    display: none;
+}
+
+article.incorrect .questionCommands {
+    /* If the question is answered, commands are now irrelevant */
+    display: none;
+}
+
+article.correct {
+    background-color: #8CC63F;
+}
+
+article.incorrect {
+    background-color: #c63f3f;
+}
+
+main {
+    display: grid;
+    grid-template-areas: 'opening'
+                         'aside'
+                         'questions'
+                         'closing';
+}
+
+#opening {
+    grid-area: opening;
+}
+
+#questions {
+    grid-area: questions;
+}
+
+#closing {
+    grid-area: closing;
+}
+
+main aside {
+    grid-area: aside;
+    margin-top: 1rem;
+}
+
+@media only screen and (min-width: 500px) {
+    .questionContainer {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .questionContainer {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    main {
+        grid-template-areas: 'opening aside'
+        'questions questions'
+        'closing closing';
+    }
+}

@@ -1,0 +1,11 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\DogExercise\bin\Debug\netcoreapp2.1\DogExercise.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\DogExercise\bin\Debug\netcoreapp2.1\DogExercise.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\DogExercise\bin\Debug\netcoreapp2.1\DogExercise.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\DogExercise\bin\Debug\netcoreapp2.1\DogExercise.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\DogExercise\bin\Debug\netcoreapp2.1\DogExercise.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\DogExercise\obj\Debug\netcoreapp2.1\DogExercise.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\DogExercise\obj\Debug\netcoreapp2.1\DogExercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\DogExercise\obj\Debug\netcoreapp2.1\DogExercise.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\DogExercise\obj\Debug\netcoreapp2.1\DogExercise.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\DogExercise\obj\Debug\netcoreapp2.1\DogExercise.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\DogExercise\obj\Debug\netcoreapp2.1\DogExercise.pdb

@@ -1,0 +1,17 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\bin\Debug\netcoreapp2.0\Exercises.Test.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\bin\Debug\netcoreapp2.0\Exercises.Test.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\bin\Debug\netcoreapp2.0\Exercises.Test.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\bin\Debug\netcoreapp2.0\Exercises.Test.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\bin\Debug\netcoreapp2.0\Exercises.Test.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\bin\Debug\netcoreapp2.0\Exercises.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\bin\Debug\netcoreapp2.0\Exercises.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\obj\Debug\netcoreapp2.0\Exercises.Test.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\obj\Debug\netcoreapp2.0\Exercises.Test.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\obj\Debug\netcoreapp2.0\Exercises.Test.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\obj\Debug\netcoreapp2.0\Exercises.Test.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\obj\Debug\netcoreapp2.0\Exercises.Test.csproj.CopyComplete
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\obj\Debug\netcoreapp2.0\Exercises.Test.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\student-exercise\Exercises.Test\obj\Debug\netcoreapp2.0\Exercises.Test.pdb

@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ask a Question</title>
+    <link href="assets/styles/common.css" rel="stylesheet" />
+    <link href="assets/styles/forms.css" rel="stylesheet" />
+</head>
+
+<body>
+    <!-- Navigation header-->
+    <header>
+        <a href="index.html">
+            <img src="assets/Images/LogoGold.png" alt="Sally the Squirrel Logo" />
+        </a>
+        <nav>
+            <a href="questions.html">Questions</a>
+            <a href="askaquestion.html" class="active">Ask a Question</a>
+            <a href="services.html">Services</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <aside>
+        <img src="assets/Images/Contact.jpg" alt="A squirrel standing and staring attentively" />
+        <cite><span>Photo by <a
+                    href="https://unsplash.com/@alexxsvch?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Alexey
+                    Savchenko</a> on <a
+                    href="/s/photos/squirrel-letter?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span></cite>
+        <blockquote>
+            What? We didn't have enough questions already? <cite>- Sally
+                the Squirrel</cite>
+        </blockquote>
+    </aside>
+
+    <main>
+
+        <section id="opening">
+
+            <h1>Ask a Question</h1>
+            <p>At Sally's we realize we can't have every question ever asked, but we sure can try! If you find something
+                we missed, use this form to add a new entry so others can learn from your experience.</p>
+            <p>Questions submitted will be reviewed in a timely manner. Or not. We don't know. I'm mostly just
+                interested in acorns. But still submit them!</p>
+        </section>
+        <section>
+            <h2>Add Question</h2>
+            <form action="http://localhost:4242/SomeFakeApi" method="POST">
+                <div class="form-group">
+                    <label for="question">Question:</label>
+                    <input type="text" id="question" placeholder="Enter a question name" name="question" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="answer">Answer:</label>
+                    <textarea placeholder="Question answer goes here..." id="answer" name="answer"></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label>Difficulty Level:</label>
+                    <div class="form-check">
+                        <input type="radio" name="contact" value="Easy" id="answerEasy" checked><label
+                            for="answerEasy">Easy</label>
+                    </div>
+                    <div class="form-check">
+                        <input type="radio" name="contact" value="Medium" id="answerMedium"><label
+                            for="answerMedium">Medium</label>
+                    </div>
+                    <div class="form-check">
+                        <input type="radio" name="contact" value="Hard" id="answerHard"><label
+                            for="answerHard">Hard</label>
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <label for="learnmore">Additional Details URL:</label>
+                    <input type="url" id="learnmore" placeholder="Learn more URL goes here" name="url">
+                </div>
+
+                <div class="form-group">
+                    <!-- Category Labels -->
+                    <label>Categories:</label>
+                    <div class="form-check-grid">
+                        <div class="form-check">
+                            <input type="checkbox" id="cat_dotnet" name="dotnet"> <label for="cat_dotnet">.NET</label>
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" id="cat_csharp" name="csharp"> <label for="cat_csharp">C#</label>
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" id="cat_oop" name="oop"> <label for="cat_oop">OOP</label>
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" id="cat_sql" name="sql"> <label for="cat_sql">SQL</label>
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" id="cat_sql" name="sql"> <label for="cat_aspnet">ASP .NET</label>
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" id="cat_html" name="html"> <label for="cat_html">HTML</label>
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" id="cat_css" name="css"> <label for="cat_css">CSS</label>
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" id="cat_js" name="js"> <label for="cat_js">JavaScript</label>
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" id="cat_vuejs" name="vuejs"> <label for="cat_vuejs">Vue.js</label>
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" id="cat_testing" name="testing"> <label
+                                for="cat_testing">Testing</label>
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" id="cat_git" name="git"> <label for="cat_git">git</label>
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" id="cat_java" name="java"> <label for="cat_java">Java (ew)</label>
+                        </div>
+                    </div>
+                </div>
+                </div>
+
+                <input type="submit">
+
+            </form>
+        </section>
+
+    </main>
+    <!-- Navigation footer -->
+    <footer>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="questions.html" class="active">Questions</a>
+            <a href="askaquestion.html">Ask a Question</a>
+            <a href="services.html">Services</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        <small>Copyright &copy; 2020, Tech Elevator, LLC</small>
+    </footer>
+</body>
+
+</html>

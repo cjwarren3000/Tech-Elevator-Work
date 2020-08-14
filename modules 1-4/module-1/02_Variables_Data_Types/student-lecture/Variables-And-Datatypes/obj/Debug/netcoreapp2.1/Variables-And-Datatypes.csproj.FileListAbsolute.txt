@@ -1,0 +1,11 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\02_Variables_Data_Types\student-lecture\Variables-And-Datatypes\obj\Debug\netcoreapp2.1\Variables-And-Datatypes.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\02_Variables_Data_Types\student-lecture\Variables-And-Datatypes\obj\Debug\netcoreapp2.1\Variables-And-Datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\02_Variables_Data_Types\student-lecture\Variables-And-Datatypes\obj\Debug\netcoreapp2.1\Variables-And-Datatypes.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\02_Variables_Data_Types\student-lecture\Variables-And-Datatypes\obj\Debug\netcoreapp2.1\Variables-And-Datatypes.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\02_Variables_Data_Types\student-lecture\Variables-And-Datatypes\bin\Debug\netcoreapp2.1\Variables-And-Datatypes.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\02_Variables_Data_Types\student-lecture\Variables-And-Datatypes\bin\Debug\netcoreapp2.1\Variables-And-Datatypes.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\02_Variables_Data_Types\student-lecture\Variables-And-Datatypes\bin\Debug\netcoreapp2.1\Variables-And-Datatypes.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\02_Variables_Data_Types\student-lecture\Variables-And-Datatypes\bin\Debug\netcoreapp2.1\Variables-And-Datatypes.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\02_Variables_Data_Types\student-lecture\Variables-And-Datatypes\bin\Debug\netcoreapp2.1\Variables-And-Datatypes.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\02_Variables_Data_Types\student-lecture\Variables-And-Datatypes\obj\Debug\netcoreapp2.1\Variables-And-Datatypes.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\02_Variables_Data_Types\student-lecture\Variables-And-Datatypes\obj\Debug\netcoreapp2.1\Variables-And-Datatypes.pdb

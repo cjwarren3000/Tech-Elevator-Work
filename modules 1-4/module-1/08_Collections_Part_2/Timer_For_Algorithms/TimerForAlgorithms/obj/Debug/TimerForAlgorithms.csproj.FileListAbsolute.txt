@@ -1,0 +1,7 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\Timer_For_Algorithms\TimerForAlgorithms\bin\Debug\TimerForAlgorithms.exe.config
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\Timer_For_Algorithms\TimerForAlgorithms\bin\Debug\TimerForAlgorithms.exe
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\Timer_For_Algorithms\TimerForAlgorithms\bin\Debug\TimerForAlgorithms.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\Timer_For_Algorithms\TimerForAlgorithms\obj\Debug\TimerForAlgorithms.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\Timer_For_Algorithms\TimerForAlgorithms\obj\Debug\TimerForAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\Timer_For_Algorithms\TimerForAlgorithms\obj\Debug\TimerForAlgorithms.exe
+C:\Users\Student\chriswarren-c-sharp-material\module-1\08_Collections_Part_2\Timer_For_Algorithms\TimerForAlgorithms\obj\Debug\TimerForAlgorithms.pdb

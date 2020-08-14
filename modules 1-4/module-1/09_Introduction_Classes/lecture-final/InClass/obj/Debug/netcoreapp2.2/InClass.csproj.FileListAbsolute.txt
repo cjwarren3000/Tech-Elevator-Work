@@ -1,0 +1,11 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\lecture-final\InClass\obj\Debug\netcoreapp2.2\InClass.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\lecture-final\InClass\obj\Debug\netcoreapp2.2\InClass.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\lecture-final\InClass\obj\Debug\netcoreapp2.2\InClass.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\lecture-final\InClass\obj\Debug\netcoreapp2.2\InClass.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\lecture-final\InClass\bin\Debug\netcoreapp2.2\InClass.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\lecture-final\InClass\bin\Debug\netcoreapp2.2\InClass.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\lecture-final\InClass\bin\Debug\netcoreapp2.2\InClass.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\lecture-final\InClass\bin\Debug\netcoreapp2.2\InClass.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\lecture-final\InClass\bin\Debug\netcoreapp2.2\InClass.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\lecture-final\InClass\obj\Debug\netcoreapp2.2\InClass.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\lecture-final\InClass\obj\Debug\netcoreapp2.2\InClass.pdb

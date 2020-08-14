@@ -1,0 +1,11 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-3\02-HTTP-Web-Services-POST\student-exercise\client\AuctionApp\bin\Debug\netcoreapp2.2\AuctionApp.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-3\02-HTTP-Web-Services-POST\student-exercise\client\AuctionApp\bin\Debug\netcoreapp2.2\AuctionApp.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-3\02-HTTP-Web-Services-POST\student-exercise\client\AuctionApp\bin\Debug\netcoreapp2.2\AuctionApp.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-3\02-HTTP-Web-Services-POST\student-exercise\client\AuctionApp\bin\Debug\netcoreapp2.2\AuctionApp.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-3\02-HTTP-Web-Services-POST\student-exercise\client\AuctionApp\bin\Debug\netcoreapp2.2\AuctionApp.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-3\02-HTTP-Web-Services-POST\student-exercise\client\AuctionApp\obj\Debug\netcoreapp2.2\AuctionApp.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-3\02-HTTP-Web-Services-POST\student-exercise\client\AuctionApp\obj\Debug\netcoreapp2.2\AuctionApp.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-3\02-HTTP-Web-Services-POST\student-exercise\client\AuctionApp\obj\Debug\netcoreapp2.2\AuctionApp.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-3\02-HTTP-Web-Services-POST\student-exercise\client\AuctionApp\obj\Debug\netcoreapp2.2\AuctionApp.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-3\02-HTTP-Web-Services-POST\student-exercise\client\AuctionApp\obj\Debug\netcoreapp2.2\AuctionApp.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-3\02-HTTP-Web-Services-POST\student-exercise\client\AuctionApp\obj\Debug\netcoreapp2.2\AuctionApp.pdb

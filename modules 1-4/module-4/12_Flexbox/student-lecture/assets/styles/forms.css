@@ -1,0 +1,71 @@
+/* Tech Elevator Colors
+
+Dark Gray:  #3B3E42
+Blue:       #00ADEE
+Green:      #8CC63F
+Light Gray: #999999
+White:      #FFFFFF
+Orange:     #F6931D
+Purple:     #363E8B
+Gold:       #FFCB48
+Red:        #c63f3f
+*/
+
+/* Form Groups should have a bottom margin */
+.form-group {
+    margin-bottom: 1rem;
+}
+
+/* Inline forms are forms meant to display on a single line. Anything inside of them should display inline-block */
+.form-inline * {
+    display: inline-block;
+}
+
+/* labels inside of form-groups should take the entire row and have some bottom margin */
+.form-group label {
+    display: block;    
+    margin-bottom: 0.25rem;
+}
+
+/* Labels inside of a form-check class should display inline-block, small font, and use a better cursor */
+.form-check label {
+    display: inline-block;
+    font-size: small;
+    cursor: pointer;
+}
+
+/* Form Fields directly inside of a form group class should take up a 65% width */
+.form-group > input {
+    width: 65%;
+}
+
+/* TextAreas should have the same width requirement as form groups, and a height of 5rem */
+.form-group > textarea {
+    width: 65%;
+    height: 5rem;
+}
+
+/* Apply a different style to the last .form-check class immediately inside of a .form-check-grid */
+.form-check-grid > .form-check:last-child {
+    color: #c63f3f;
+}
+
+/* Inputs that are buttons or submits should use auto width, gray text / border, gold background color, and use a light gray shadow */
+input[type="submit"], input[type="button"] {
+    background-color: #FFCB48;
+    color: #3B3E42;
+    border: 1px solid #3B3E42;
+    box-shadow: #999999 2px 2px;
+    width: auto;
+    cursor: pointer;
+}
+
+/* Inputs that are buttons or submits should use orange background on hover */
+input[type="submit"]:hover, input[type="button"]:hover {
+    background-color: #F6931D;
+}
+
+/* Inputs & textareas should use a dark gray border */
+input, textarea {
+    border: 1px solid #3B3E42;
+}

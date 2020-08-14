@@ -1,0 +1,132 @@
+body {
+    background-color: #cad2c5;
+}
+header {
+    background-color: #6f9ceb;
+    border-bottom: 5px solid #ceff1a;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    grid-template-areas: "header"
+                         "main"
+                         "sidebar"
+                         "footer";
+}
+/*
+main {
+    grid-area: main;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+    
+    grid-template-areas: "image"
+                         "quotes-section"
+                         "achievements-section"
+                         "impacts-section";
+}
+*/
+main {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+li{
+    font-size: 1.5rem;
+}
+p{
+    font-size: 1.5rem;
+}
+a{
+    font-size: 1.5rem;
+}
+
+html {
+    cursor: url('https://download.zohopublic.com/public?x-service=LiveDesk&event-id=1546460094411_364983000000002043&x-cli-msg=%7B%22x-siq-filetype%22%3A%22fgravatar%22%2C%22x-siq-lsid%22%3A%22364983000000002043%22%2C%22x-siq-soid%22%3A%22670693202%22%2C%22x-siq-ispreview%22%3Afalse%2C%22x-siq-pfname%22%3A%22Mark%20-%20blue%20-%20white%20back.jpg%22%2C%22x-siq-downloadtype%22%3A%22default%22%7D'), auto;
+}
+
+header{
+    grid-area: header;
+}
+footer{
+    grid-area: footer;
+    background-color: #6f9ceb;
+    border-top: 5px solid #ceff1a;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    padding-bottom: 2rem;
+}
+
+label {
+    margin-top: 1.5rem;
+}
+
+
+aside {
+    grid-area: sidebar;
+    background-color: #e49273;
+}
+
+img {
+    max-width: 90%;
+    grid-area: image;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2rem;
+}
+aside {
+display: flex;
+flex-direction: column;
+align-content: center;
+}
+
+#quotes-section {
+    grid-area: quotes-section;
+}
+
+#achievements-section {
+    grid-area: achievements-section;
+}
+
+#impact-section {
+    grid-area: impacts-section;
+}
+h3 {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+
+@media screen and (min-width:1024px){
+    body{
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        justify-content: center;
+        grid-template-areas: "header header"
+                             "main sidebar"
+                             "footer footer";
+    }
+    aside{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        justify-content: space-around;
+        padding-bottom: 3rem;
+        border-left: 5px solid #ceff1a;
+    }
+}

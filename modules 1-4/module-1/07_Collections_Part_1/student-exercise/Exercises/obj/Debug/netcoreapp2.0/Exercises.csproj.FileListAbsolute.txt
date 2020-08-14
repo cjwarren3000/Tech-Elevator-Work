@@ -1,0 +1,11 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-exercise\Exercises\bin\Debug\netcoreapp2.0\Exercises.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-exercise\Exercises\bin\Debug\netcoreapp2.0\Exercises.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-exercise\Exercises\bin\Debug\netcoreapp2.0\Exercises.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-exercise\Exercises\bin\Debug\netcoreapp2.0\Exercises.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-exercise\Exercises\bin\Debug\netcoreapp2.0\Exercises.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-exercise\Exercises\obj\Debug\netcoreapp2.0\Exercises.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-exercise\Exercises\obj\Debug\netcoreapp2.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-exercise\Exercises\obj\Debug\netcoreapp2.0\Exercises.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-exercise\Exercises\obj\Debug\netcoreapp2.0\Exercises.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-exercise\Exercises\obj\Debug\netcoreapp2.0\Exercises.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-exercise\Exercises\obj\Debug\netcoreapp2.0\Exercises.pdb

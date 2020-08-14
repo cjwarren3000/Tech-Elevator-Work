@@ -1,0 +1,17 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\bin\Debug\netcoreapp2.2\BankTellerExercise.Tests.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\bin\Debug\netcoreapp2.2\BankTellerExercise.Tests.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\bin\Debug\netcoreapp2.2\BankTellerExercise.Tests.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\bin\Debug\netcoreapp2.2\BankTellerExercise.Tests.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\bin\Debug\netcoreapp2.2\BankTellerExercise.Tests.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\bin\Debug\netcoreapp2.2\BankTellerExercise.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\bin\Debug\netcoreapp2.2\BankTellerExercise.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\obj\Debug\netcoreapp2.2\BankTellerExercise.Tests.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\obj\Debug\netcoreapp2.2\BankTellerExercise.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\obj\Debug\netcoreapp2.2\BankTellerExercise.Tests.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\obj\Debug\netcoreapp2.2\BankTellerExercise.Tests.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\obj\Debug\netcoreapp2.2\BankTellerExercise.Tests.csproj.CopyComplete
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\obj\Debug\netcoreapp2.2\BankTellerExercise.Tests.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\12_Polymorphism\student-exercise\dotnet\BankTellerExercise.Tests\obj\Debug\netcoreapp2.2\BankTellerExercise.Tests.pdb

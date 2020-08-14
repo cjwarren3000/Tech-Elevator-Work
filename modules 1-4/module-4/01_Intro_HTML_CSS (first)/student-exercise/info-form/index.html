@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="/info-form/FormStylesheet.css" rel="stylesheet"/>
+</head>
+<body>
+    <form action="http://form/destination" method="POST">
+        <label for="FullName">Full Name:</label>
+        <input id="FullName" name="FullName" type="text" required/>
+        <label for="EmailAddress">Email Address:</label>
+        <input id="EmailAddress" name="EmailAddress" type="email" required/>
+        <label for="DateOfBirth">Date of Birth:</label>
+        <input id="DateOfBirth" name="DateOfBirth" type="date"/>
+        <label for="FavoriteColor">Favorite Color:</label>
+        <input id="FavoriteColor" name="FavoriteColor" type="color"/>
+        <label for="FavoriteNumber">Favorite Number:</label>
+        <input id="FavoriteNumber" name="FavoriteNumber" type="number"/>
+        <label for="Confirmation">Is this all correct?</label>
+        <input id="Confirmation" name="Confirmation" type="checkbox"/>
+        <button id="Submit" name="Submit" type="submit">Submit</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,11 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-lecture\CollectionsLectureNotes\bin\Debug\netcoreapp2.1\CollectionsLectureNotes.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-lecture\CollectionsLectureNotes\bin\Debug\netcoreapp2.1\CollectionsLectureNotes.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-lecture\CollectionsLectureNotes\bin\Debug\netcoreapp2.1\CollectionsLectureNotes.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-lecture\CollectionsLectureNotes\bin\Debug\netcoreapp2.1\CollectionsLectureNotes.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-lecture\CollectionsLectureNotes\bin\Debug\netcoreapp2.1\CollectionsLectureNotes.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-lecture\CollectionsLectureNotes\obj\Debug\netcoreapp2.1\CollectionsLectureNotes.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-lecture\CollectionsLectureNotes\obj\Debug\netcoreapp2.1\CollectionsLectureNotes.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-lecture\CollectionsLectureNotes\obj\Debug\netcoreapp2.1\CollectionsLectureNotes.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-lecture\CollectionsLectureNotes\obj\Debug\netcoreapp2.1\CollectionsLectureNotes.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-lecture\CollectionsLectureNotes\obj\Debug\netcoreapp2.1\CollectionsLectureNotes.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\07_Collections_Part_1\student-lecture\CollectionsLectureNotes\obj\Debug\netcoreapp2.1\CollectionsLectureNotes.pdb

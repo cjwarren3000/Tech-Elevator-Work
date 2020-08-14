@@ -1,0 +1,60 @@
+/* Tech Elevator Colors
+
+Dark Gray:  #3B3E42
+Blue:       #00ADEE
+Green:      #8CC63F
+Light Gray: #999999
+White:      #FFFFFF
+Orange:     #F6931D
+Purple:     #363E8B
+Gold:       #FFCB48
+Red:        #c63f3f
+*/
+
+/* Table Styling */
+table {
+    border: 2px solid #8CC63F;
+    text-shadow: #999999 1px 1px;
+    background-color: #999999;
+    border-collapse: collapse;
+}
+
+table thead {
+    background-color: #3B3E42;
+    color: white;
+}
+
+thead th {
+    color: white;
+    padding: 0.25rem 0.5rem;
+}
+
+tbody {
+    color: white;
+}
+
+tbody th {
+    color: #F6931D;
+    background-color: white;
+    text-shadow: #58595a 1px 1px;
+    padding-right: 0.5rem;
+}
+
+td {
+    padding: 0.25rem 0.5rem;
+    text-shadow: #3B3E42 1px 1px;
+}
+
+/* Alternating rows should use a different background */
+tr:nth-child(even) {
+    background-color: #58595a;
+}
+
+/* Hovered rows should use a different background */
+tbody tr:hover {
+    background-color: #F6931D;
+}
+
+img:hover {
+    src: "assets/images/SquirrelPhone.jpg"
+}

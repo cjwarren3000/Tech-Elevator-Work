@@ -1,0 +1,17 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\bin\Debug\netcoreapp2.2\AbstractExercise.Tests.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\bin\Debug\netcoreapp2.2\AbstractExercise.Tests.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\bin\Debug\netcoreapp2.2\AbstractExercise.Tests.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\bin\Debug\netcoreapp2.2\AbstractExercise.Tests.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\bin\Debug\netcoreapp2.2\AbstractExercise.Tests.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\bin\Debug\netcoreapp2.2\AbstractExercise.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\bin\Debug\netcoreapp2.2\AbstractExercise.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\obj\Debug\netcoreapp2.2\AbstractExercise.Tests.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\obj\Debug\netcoreapp2.2\AbstractExercise.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\obj\Debug\netcoreapp2.2\AbstractExercise.Tests.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\obj\Debug\netcoreapp2.2\AbstractExercise.Tests.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\obj\Debug\netcoreapp2.2\AbstractExercise.Tests.csproj.CopyComplete
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\obj\Debug\netcoreapp2.2\AbstractExercise.Tests.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\13_AbstractClasses\student-exercise\AbstractExercise.Tests\obj\Debug\netcoreapp2.2\AbstractExercise.Tests.pdb

@@ -1,0 +1,11 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\06_Introduction_Objects_Strings\student-lecture\classes and objects\bin\Debug\netcoreapp2.2\classes and objects.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\06_Introduction_Objects_Strings\student-lecture\classes and objects\bin\Debug\netcoreapp2.2\classes and objects.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\06_Introduction_Objects_Strings\student-lecture\classes and objects\bin\Debug\netcoreapp2.2\classes and objects.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\06_Introduction_Objects_Strings\student-lecture\classes and objects\bin\Debug\netcoreapp2.2\classes and objects.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\06_Introduction_Objects_Strings\student-lecture\classes and objects\bin\Debug\netcoreapp2.2\classes and objects.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\06_Introduction_Objects_Strings\student-lecture\classes and objects\obj\Debug\netcoreapp2.2\classes and objects.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\06_Introduction_Objects_Strings\student-lecture\classes and objects\obj\Debug\netcoreapp2.2\classes and objects.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\06_Introduction_Objects_Strings\student-lecture\classes and objects\obj\Debug\netcoreapp2.2\classes and objects.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\06_Introduction_Objects_Strings\student-lecture\classes and objects\obj\Debug\netcoreapp2.2\classes and objects.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\06_Introduction_Objects_Strings\student-lecture\classes and objects\obj\Debug\netcoreapp2.2\classes and objects.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\06_Introduction_Objects_Strings\student-lecture\classes and objects\obj\Debug\netcoreapp2.2\classes and objects.pdb

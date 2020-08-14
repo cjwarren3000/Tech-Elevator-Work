@@ -1,0 +1,11 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\ShoppingCartExercise\bin\Debug\netcoreapp2.1\ShoppingCartExercise.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\ShoppingCartExercise\bin\Debug\netcoreapp2.1\ShoppingCartExercise.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\ShoppingCartExercise\bin\Debug\netcoreapp2.1\ShoppingCartExercise.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\ShoppingCartExercise\bin\Debug\netcoreapp2.1\ShoppingCartExercise.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\ShoppingCartExercise\bin\Debug\netcoreapp2.1\ShoppingCartExercise.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\ShoppingCartExercise\obj\Debug\netcoreapp2.1\ShoppingCartExercise.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\ShoppingCartExercise\obj\Debug\netcoreapp2.1\ShoppingCartExercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\ShoppingCartExercise\obj\Debug\netcoreapp2.1\ShoppingCartExercise.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\ShoppingCartExercise\obj\Debug\netcoreapp2.1\ShoppingCartExercise.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\ShoppingCartExercise\obj\Debug\netcoreapp2.1\ShoppingCartExercise.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\09_Introduction_Classes\student-exercise\ShoppingCartExercise\obj\Debug\netcoreapp2.1\ShoppingCartExercise.pdb

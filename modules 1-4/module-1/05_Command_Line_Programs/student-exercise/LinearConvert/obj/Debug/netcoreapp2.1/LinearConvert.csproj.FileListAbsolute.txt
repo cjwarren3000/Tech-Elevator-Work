@@ -1,0 +1,11 @@
+C:\Users\Student\chriswarren-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\LinearConvert\obj\Debug\netcoreapp2.1\LinearConvert.csprojAssemblyReference.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\LinearConvert\obj\Debug\netcoreapp2.1\LinearConvert.csproj.CoreCompileInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\LinearConvert\obj\Debug\netcoreapp2.1\LinearConvert.AssemblyInfoInputs.cache
+C:\Users\Student\chriswarren-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\LinearConvert\obj\Debug\netcoreapp2.1\LinearConvert.AssemblyInfo.cs
+C:\Users\Student\chriswarren-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\LinearConvert\bin\Debug\netcoreapp2.1\LinearConvert.deps.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\LinearConvert\bin\Debug\netcoreapp2.1\LinearConvert.runtimeconfig.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\LinearConvert\bin\Debug\netcoreapp2.1\LinearConvert.runtimeconfig.dev.json
+C:\Users\Student\chriswarren-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\LinearConvert\bin\Debug\netcoreapp2.1\LinearConvert.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\LinearConvert\bin\Debug\netcoreapp2.1\LinearConvert.pdb
+C:\Users\Student\chriswarren-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\LinearConvert\obj\Debug\netcoreapp2.1\LinearConvert.dll
+C:\Users\Student\chriswarren-c-sharp-material\module-1\05_Command_Line_Programs\student-exercise\LinearConvert\obj\Debug\netcoreapp2.1\LinearConvert.pdb

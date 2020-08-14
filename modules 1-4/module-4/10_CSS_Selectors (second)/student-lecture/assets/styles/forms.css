@@ -1,0 +1,37 @@
+/* Tech Elevator Colors
+
+Dark Gray:  #3B3E42
+Blue:       #00ADEE
+Green:      #8CC63F
+Light Gray: #999999
+White:      #FFFFFF
+Orange:     #F6931D
+Purple:     #363E8B
+Gold:       #FFCB48
+Red:        #c63f3f
+*/
+
+/* Form Groups should have a bottom margin */
+.form-group {
+    margin-bottom: 1rem;
+}
+
+/* TODO-2 Inline forms are forms meant to display on a single line. Anything inside of them should display inline-block */
+
+/* TODO-2 labels inside of form-groups should take the entire row and have some bottom margin */
+
+/* TODO-2: Labels inside of a form-check class should display inline-block, small font, and use a better cursor */
+
+/* TODO-2: Form Fields directly inside of a form group class should take up a 65% width */
+
+/* TODO-2: TextAreas should have the same width requirement as form groups, and a height of 5rem */
+
+/* TODO-2: Apply a different style to the last .form-check class immediately inside of a .form-check-grid */
+
+/* TODO-2: Inputs that are buttons or submits should use auto width, gray text / border, gold background color, and use a light gray shadow */
+
+/* TODO-2: Inputs that are buttons or submits should use orange background on hover */
+
+/* TODO-2: inputs & textareas should use a dark gray border */
+
+/* TODO-2: inputs that do not have the required attribute on them should use a gray border */
